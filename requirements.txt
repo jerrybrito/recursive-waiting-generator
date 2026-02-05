@@ -1,0 +1,2 @@
+# Requires: forgotten-maybe
+# (Not available on PyPI)
